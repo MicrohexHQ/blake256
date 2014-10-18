@@ -1,5 +1,5 @@
 // Written in 2011-2012 by Dmitry Chestnykh.
-// reduced rounds to 8 by BlueDragon747
+// Reduced rounds to 8 by BlueDragon747
 //
 // To the extent possible under law, the author have dedicated all copyright
 // and related and neighboring rights to this software to the public domain
